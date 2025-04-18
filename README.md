@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francesco Stabile</h1>
 <h3 align="center">A passionate Mobile Developer from Naples</h3>
 
-- 🔭 I’m currently working on [SwiftDefaults](https://github.com/FraStabile/SwiftDefaults)
+- 🔭 I’m currently working on [SwiftDefaults](https://github.com/FraStabile/SwiftDefaults), [PacketPeek](https://github.com/FraStabile/PacketPeek), [SwiftDependency](https://github.com/FraStabile/SwiftDependency)
 
-- 🌱 I’m currently learning **Kotlin, KMM, Android Developer, Vue, SpringBoot**
+- 🌱 I’m currently learning **Kotlin, KMM, Android Developer, Vue, SpringBoot, Golang**
 
 - 💬 Ask me about **Swift, OBJC**
 
